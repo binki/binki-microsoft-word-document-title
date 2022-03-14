@@ -13,7 +13,7 @@ This way, you can search for the document by name in your address bar:
 However, if you launched a Microsoft Word document through the [special WOPI protocol](https://docs.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/), Word does not do this.
 For example, a document named “Another Example.docx” just has a document title of “Word”:
 
-![Editing “Another Example.docx” opened via ShareFile](https://docs.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/)
+![Editing “Another Example.docx” opened via ShareFile](https://i.imgur.com/BVzFMrg.png)
 
 This makes searching for the document nearly impossible. For example, I have no results in my address bar:
 
