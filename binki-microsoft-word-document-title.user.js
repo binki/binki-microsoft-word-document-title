@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name binki-microsoft-word-document-title
 // @version 1.0
-// @grant none
 // @author Nathan Phillip Brink (binki) (@ohnobinki)
 // @homepageURL https://github.com/binki/binki-microsoft-word-document-title/
 // @match https://word-edit.officeapps.live.com/we/wordeditorframe.aspx?*
