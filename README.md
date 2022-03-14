@@ -35,3 +35,7 @@ Also, the address bar search can match the document title keywords in the URI it
 ## Installation
 
 [Install](binki-microsoft-word-document-title.user.js?raw=1)
+
+## See Also
+
+* [binki-sharefile-microsoft-word-recovery](https://github.com/binki/binki-sharefile-microsoft-word-recovery): Enable direct navigation to the WOPI editor for Word documents stored in ShareFile, recovering from the “Sorry, we ran into a problem.”. This is likely necessary if you using ShareFile and search for documents by title.
