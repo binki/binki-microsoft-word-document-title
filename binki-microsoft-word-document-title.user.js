@@ -4,6 +4,7 @@
 // @author Nathan Phillip Brink (binki) (@ohnobinki)
 // @homepageURL https://github.com/binki/binki-microsoft-word-document-title/
 // @match https://word-edit.officeapps.live.com/we/wordeditorframe.aspx?*
+// @match https://excel.officeapps.live.com/x/_layouts/xlviewerinternal.aspx?*
 // @require https://github.com/binki/binki-userscript-delay-async/raw/252c301cdbd21eb41fa0227c49cd53dc5a6d1e58/binki-userscript-delay-async.js
 // @require https://github.com/binki/binki-userscript-when-element-changed-async/raw/88cf57674ab8fcaa0e86bdf5209342ec7780739a/binki-userscript-when-element-changed-async.js
 // ==/UserScript==
